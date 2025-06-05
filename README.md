@@ -41,6 +41,7 @@ Deze repository bevat de MCP servers ontwikkeld door Smithery. MCP servers zijn 
 ```bash
 git clone https://github.com/sbakidi/mcp-servers.git
 cd mcp-servers
+```bash
 
 ## Dependencies installeren
 
